@@ -5,8 +5,8 @@ from time import sleep
 import network
 import socket
 
-ssid = 'Airtel_hari_5474'
-password = 'air17675'
+ssid = 'YOUR WIFI NETWORK NAME'
+password = 'YOUR WIFI NETWORK PASSWORD'
 
 sda = Pin(0)
 scl = Pin(1)
